@@ -1,28 +1,13 @@
-# Prasanna_portfolio
+# Personal Portfolio Website
 
-A full-stack portfolio website to showcase my skills, projects and achievements.
-
-## Technologies Used
-
-Frontend:
-- React.js
-- HTML
-- CSS
-- JavaScript
-
-Backend:
-- Node.js
-- Express.js
-
-Database:
-- MongoDB
+A simple portfolio website built using HTML, CSS, and JavaScript.
 
 ## Features
 
-- Responsive Design
-- Project Showcase
-- Contact Form
-- Dynamic Project Management
+- About Me
+- Skills
+- Projects
+- Contact Information
 
 ## Author
 
